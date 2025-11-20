@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aritra</h1>
 <h3 align="center">A passionate ML Engineer/Researcher from IIT-Kharagpur, India</h3>
 
-<p align="left"> <a href="https://twitter.com/beingdutta_" target="blank"><img src="https://img.shields.io/twitter/follow/beingdutta_?logo=twitter&style=for-the-badge" alt="beingdutta_" /></a> </p>
 
 - 🔭 I’m currently working on **Improving Reasoning of Small Vision Language Models with Low Latency**
 
 - 🌱 I’m currently learning **Recursive Models**
 
-- 👯 I’m looking to collaborate on **LLM Inference, Qunatization, Reasoning**
+- 👯 I’m looking to collaborate on **LLM Inference, Quantization, Reasoning, LLM Distillation**
 
 - 💬 Ask me about **ML, PyTorch, Transformer, Neural Nets**
 
@@ -15,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19UPcRSCQ869loX3IIJ-aOt9hs3ugG_5e/view?usp=sharing](https://drive.google.com/file/d/19UPcRSCQ869loX3IIJ-aOt9hs3ugG_5e/view?usp=sharing)
 
-- ⚡ Fun fact **In my dreams I still think transformers are something that step down electricity voltage :|**
+- ⚡ Fun fact **In my dreams, I still think transformers are something that step down electricity voltage :|**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
