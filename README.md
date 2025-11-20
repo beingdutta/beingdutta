@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aritra</h1>
-<h3 align="center">A passionate ML Engineer/Researcher from IIT-Kharagpur, India</h3>
+<h3 align="center">An aspiring ML Engineer/Researcher from IIT-Kharagpur, India</h3>
 
 
 - 🔭 I’m currently working on **Improving Reasoning of Small Vision Language Models with Low Latency**
