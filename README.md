@@ -14,6 +14,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19UPcRSCQ869loX3IIJ-aOt9hs3ugG_5e/view?usp=sharing](https://drive.google.com/file/d/19UPcRSCQ869loX3IIJ-aOt9hs3ugG_5e/view?usp=sharing)
 
+- 📣 Also find me at: https://beingdutta.github.io/portfolio/
+
 - ⚡ Fun fact **In my dreams, I still think transformers are something that step down electricity voltage :|**
 
 <h3 align="left">Connect with me:</h3>
